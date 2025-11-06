@@ -6,6 +6,17 @@
 Questa è una **fork personale** della repository originale [Tundrak/IPTV-Italia](https://github.com/Tundrak/IPTV-Italia).
 Si tratta di una repo di **manutenzione personale**, in cui provo a tenere aggiornati i link dei canali principali.
 
+# Come usarla
+Apri [**questo link**](https://github.com/scode26/IPTV-Italia/releases) e scarica la versione più recente delle playlist. Poi aprile con il tuo Media Player preferito (ad esempio PotPlayer o MyIPTV Player).  
+**Alternativo**: copia gli indirizzi nella tabella sotto e incollali nella finestra "Apri flusso di rete" o "Apri URL" del tuo player per avere sempre le playlist più aggiornate senza dover mai scaricare nuovi file.
+(**iptvitaplus** contiene tutti i canali in iptvita, e inoltre include loghi e gruppi per i lettori più avanzati)
+
+|    **FILE**         |   Link Download    |
+|--------------------:|:----------------------------------------------------------------:|
+| **iptvitaplus.m3u** | https://github.com/scode26/IPTV-Italia/raw/main/iptvitaplus.m3u  |
+|    **iptvita.m3u**  |   https://github.com/Tundrak/IPTV-Italia/raw/main/iptvita.m3u    |
+
+# CREDITI
 I meriti per il progetto originale vanno interamente a [Tundrak](https://github.com/Tundrak).
 
 Di seguito riporto il README della Repository originale.
