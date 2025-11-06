@@ -14,7 +14,7 @@ Apri [**questo link**](https://github.com/scode26/IPTV-Italia/releases) e scaric
 |    **FILE**         |   Link Download    |
 |--------------------:|:----------------------------------------------------------------:|
 | **iptvitaplus.m3u** | https://github.com/scode26/IPTV-Italia/raw/main/iptvitaplus.m3u  |
-|    **iptvita.m3u**  |   https://github.com/Tundrak/IPTV-Italia/raw/main/iptvita.m3u    |
+|    **iptvita.m3u**  |   https://github.com/scode26/IPTV-Italia/raw/main/iptvita.m3u    |
 
 # CREDITI
 I meriti per il progetto originale vanno interamente a [Tundrak](https://github.com/Tundrak).
